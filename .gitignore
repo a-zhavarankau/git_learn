@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+.venv
+venv/
+.coverage
+__pycache__/
+.pytest_cache/
